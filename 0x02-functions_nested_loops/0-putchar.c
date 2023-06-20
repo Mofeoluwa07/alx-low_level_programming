@@ -1,12 +1,20 @@
 #include "main.h"
-#include <stdio.h>
+
 /**
- * add -prints add two numbers
- * @i: print int i
- * @k: print int k
- * Return: Always 0.
+ * main - Entry point
+ * Return: 0 nothing, return void
  */
-int add(int i, int k)
+int main(void)
 {
-	return (i + k);
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+
+	return (0);
 }
